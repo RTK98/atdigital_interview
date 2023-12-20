@@ -1,0 +1,21 @@
+.footerSection {
+  background: #6b3cc9;
+  color: #ffffff;
+  padding: 50px 0;
+}
+.imageStyle{
+        width: 238.89px;
+        height: 36.11px;
+        top: -11.11px;
+}
+.CompanyDetails  {
+    margin-bottom: 20px;
+    text-align: start;
+}
+.CompanyDetails ul {
+    list-style: none;
+}
+.CompanyDetails a{
+    text-decoration: none;
+    color: #FFFFFF;
+}

@@ -1,0 +1,30 @@
+.contentLower {
+  padding: 80px 0;
+  background: #ffffff;
+}
+.imageContainer {
+  margin-top: -80px;
+}
+.upperTitle {
+  text-align: start;
+  width: 542px;
+  height: 187px;
+  gap: 20px;
+}
+.upperTitleH3 {
+  font-family: Poppins;
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 33px;
+  letter-spacing: 0.4000000059604645px;
+  text-align: left;
+  color: #6b3cc9;
+}
+.upperP {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+  };
